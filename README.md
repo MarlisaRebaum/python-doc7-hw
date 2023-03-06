@@ -7,3 +7,6 @@ Day 7 of the Python unit as part of my coding bootcamp.
 - Two Pointers
 - Linked Lists
 - Merge Sort
+
+## Technologies Used:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
